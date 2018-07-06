@@ -7,9 +7,9 @@ date:   2018-06-22 15:22:00
 permalink: banh-bao-kim-sa
 mathjax: true
 tags: 
-category: Làm Bánh
-sc_project: 11743468
-sc_security: 72d514df
+category: Chia-sẻ
+sc_project: 
+sc_security: 
 img: /assets/6-banh-bao-kim-sa/cover.jpg
 summary: Cách làm bánh bao kim sa ngon, Bánh bao kim sa, cách làm Bánh bao kim sa
 ---
