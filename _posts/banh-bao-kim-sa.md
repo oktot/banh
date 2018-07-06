@@ -1,14 +1,17 @@
-﻿---
-id: 6
-title: Bánh bao kim sa
-layout: EventPage
-category: events
-path: '/events/6-banh-bao-kim-sa/'
-key: 6-banh-bao-kim-sa
-
-meta: Bánh bao kim sa, Bình Dương
-keywords: Bánh bao kim sa, cách làm Bánh bao kim sa, Bình Dương
-
+---
+layout: post
+comments: true
+title:  "Cách làm bánh bao kim sa"
+title2:  "ách làm bánh bao kim sa"
+date:   2018-06-22 15:22:00
+permalink: banh-bao-kim-sa
+mathjax: true
+tags: 
+category: Làm Bánh
+sc_project: 11743468
+sc_security: 72d514df
+img: /assets/6-banh-bao-kim-sa/cover.jpg
+summary: Cách làm bánh bao kim sa ngon, Bánh bao kim sa, cách làm Bánh bao kim sa
 ---
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
