@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Cách làm bánh bao kim sa"
-title2:  "ách làm bánh bao kim sa"
+title2:  "Cách làm bánh bao kim sa"
 date:   2018-06-22 15:22:00
 permalink: banh-bao-kim-sa
 mathjax: true
