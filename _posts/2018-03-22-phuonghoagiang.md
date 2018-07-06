@@ -4,7 +4,7 @@ comments: true
 title:  "Bạn đọc viết: Con đường học Khoa học dữ liệu của một sinh viên Kinh tế"
 title2:  "Con đường học Khoa học dữ liệu của một sinh viên Kinh tế"
 date:   2018-03-22 15:22:00
-permalink: 2018/03/22/phuonghoagiang/
+permalink: phuonghoagiang.html
 mathjax: true
 tags: 
 category: Chia-sẻ
